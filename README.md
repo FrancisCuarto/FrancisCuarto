@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👋 ¡Hola! Soy Francis (FrancisIV)
 
-<!--
-**FrancisCuarto/FrancisCuarto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Game Developer & Web Developer | IV Orbit Games**
 
-Here are some ideas to get you started:
+Desarrollador de software, videojuegos indie y aplicaciones web ubicado en Berisso, Argentina. Me especializo en construir experiencias interactivas, herramientas de desarrollo impulsadas por IA (MCP servers, CLIs) y localización de videojuegos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Stack Tecnológico
+- **Game Dev & 3D:** Godot Engine 4, GDScript, Blender 3D
+- **Web & Scripting:** JavaScript, TypeScript, Astro, Python
+- **AI & Automation:** Model Context Protocol (MCP), AI Agents & Dev Tooling
+
+#### 🚀 Proyectos Destacados
+- **[OrbitKit](https://github.com/FrancisCuarto/OrbitKit):** CLI interactiva, habilidades de IA, servidores MCP y gestor de addons para Godot 4 y Blender 3D.
+- **[IV-Orbit-Texture-Studio](https://github.com/FrancisCuarto/IV-Orbit-Texture-Studio):** Herramienta en Python para flujo de texturas.
