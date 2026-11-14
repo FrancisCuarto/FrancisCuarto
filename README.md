@@ -1,8 +1,3 @@
-[README_GITHUB_FRANCIS_v2.md](https://github.com/user-attachments/files/34841630/README_GITHUB_FRANCIS_v2.md)
-### 👋 ¡Hola! Soy Francis (FrancisIV)
-
-**Software Developer | Game Developer & Web Developer | IV Orbit Games**
-<div align="center">
 
 # ¡Hola! Soy Francis 👋
 
