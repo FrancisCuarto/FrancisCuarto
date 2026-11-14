@@ -1,6 +1,4 @@
 
-[![Website](https://img.shields.io/badge/Website-ivorbitgames.online-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ivorbitgames.online/)
-[![GitHub](https://img.shields.io/badge/GitHub-FrancisCuarto-181717?style=for-the-badge&logo=github)](https://github.com/FrancisCuarto)
 
 </div><div align="center">
 
